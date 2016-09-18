@@ -124,6 +124,10 @@ body {
   margin-top: -110px;
 }
 
+#btn1 {
+  margin: auto;
+  text-align: center;
+}
 
 .heart {
   animation: HEARTBEAT 2.5s infinite;
