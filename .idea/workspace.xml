@@ -2,80 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4795be5-a4a0-42a6-b4c9-cd07d0c23058" name="Default" comment="添加short icon">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/55addf6900019d8f14410645.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/QixiA.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/QixiB-bright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/QixiB-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/QixiC.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/background/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/background/a_background_botton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/background/a_background_middle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/background/a_background_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/background/c_background_botton.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/background/c_background_middle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/background/c_background_top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/bird.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/boy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/cloud1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/cloud2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/door-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/door-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/girl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/snowflake/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/snowflake/snowflake1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/snowflake/snowflake2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/snowflake/snowflake3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/snowflake/snowflake4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/snowflake/snowflake5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/snowflake/snowflake6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/stars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/sun.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/water.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/Qixi-bright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/QixiB-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/QixiB.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/QixiB11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/Qixic1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/bird1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/bird2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/bird3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-flower1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-flower2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-flower3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-flower4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-rotate1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-rotate2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-rotate3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-rotate4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-rotate5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-rotate6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-walk1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-walk2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-walk3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/boy-walk4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/bridge/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/bridge/bridge-bottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/bridge/bridge-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/bridge/bridge-right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/girl-rotate1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/girl-rotate2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/girl-rotate3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/girl-rotate4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/girl-rotate5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/girl-rotate6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/girl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/person/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/person/boy-flower.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/person/boy-rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/person/boy-walk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/person/girl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/water1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/water2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/water3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/所有图片/原图/water4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/ani.html" afterPath="$PROJECT_DIR$/html/ani.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="LoveWD.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -98,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="112">
+              <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ani.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/ani.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -110,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ani.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/ani.html">
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1135">
-              <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,6 +85,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/html/ani.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -268,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474183114917</updated>
-      <workItem from="1474183116269" duration="2346000" />
+      <workItem from="1474183116269" duration="2676000" />
     </task>
     <task id="LOCAL-00001" summary="添加心">
       <created>1474183730406</created>
@@ -288,13 +228,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2346000" />
+    <option name="totallyTimeSpent" value="2676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="225" y="29" width="1048" height="717" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926972" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24926972" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -364,20 +304,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/html/ani.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="615">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/ani.html">
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1135">
-          <caret line="85" column="30" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
           <folding />
         </state>
       </provider>
