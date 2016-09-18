@@ -111,7 +111,7 @@ body {
 
 
 .city {
-  font-family:"Hammersmith One";
+  /*font-family:"Hammersmith One";*/
   display: inline-block;
   width: 100%;
   height: 300px;
