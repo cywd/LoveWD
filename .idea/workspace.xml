@@ -2,8 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4795be5-a4a0-42a6-b4c9-cd07d0c23058" name="Default" comment="添加short icon">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/ani.html" afterPath="$PROJECT_DIR$/html/ani.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/55addf6900019d8f14410645.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/QixiA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/QixiB-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/QixiB-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/QixiC.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/background/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/background/a_background_botton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/background/a_background_middle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/background/a_background_top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/background/c_background_botton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/background/c_background_middle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/background/c_background_top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/bird.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/boy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/cloud1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/cloud2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/door-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/door-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/girl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/snowflake/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/snowflake/snowflake1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/snowflake/snowflake2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/snowflake/snowflake3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/snowflake/snowflake4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/snowflake/snowflake5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/snowflake/snowflake6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/stars.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/sun.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/water.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/Qixi-bright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/QixiB-dark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/QixiB.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/QixiB11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/Qixic1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/bird1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/bird2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/bird3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-flower1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-flower2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-flower3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-flower4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-rotate1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-rotate2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-rotate3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-rotate4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-rotate5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-rotate6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-walk1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-walk2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-walk3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/boy-walk4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/bridge/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/bridge/bridge-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/bridge/bridge-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/bridge/bridge-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/girl-rotate1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/girl-rotate2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/girl-rotate3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/girl-rotate4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/girl-rotate5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/girl-rotate6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/girl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/person/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/person/boy-flower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/person/boy-rotate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/person/boy-walk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/person/girl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/water1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/water2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/water3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/所有图片/原图/water4.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="LoveWD.iws" />
@@ -30,8 +102,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
+            <state relative-caret-position="97">
+              <caret line="81" column="46" selection-start-line="81" selection-start-column="46" selection-end-line="81" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -208,7 +280,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1474183114917</updated>
-      <workItem from="1474183116269" duration="2676000" />
+      <workItem from="1474183116269" duration="2726000" />
     </task>
     <task id="LOCAL-00001" summary="添加心">
       <created>1474183730406</created>
@@ -228,7 +300,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2676000" />
+    <option name="totallyTimeSpent" value="2726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="225" y="29" width="1048" height="717" extended-state="0" />
@@ -324,8 +396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
+        <state relative-caret-position="97">
+          <caret line="81" column="46" selection-start-line="81" selection-start-column="46" selection-end-line="81" selection-end-column="46" />
           <folding />
         </state>
       </provider>
