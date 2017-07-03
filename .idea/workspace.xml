@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4795be5-a4a0-42a6-b4c9-cd07d0c23058" name="Default" comment="添加short icon">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="c4795be5-a4a0-42a6-b4c9-cd07d0c23058" name="Default" comment="添加short icon" />
     <ignored path="LoveWD.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -330,7 +327,7 @@
       <workItem from="1483927107839" duration="695000" />
       <workItem from="1487315351974" duration="1751000" />
       <workItem from="1499060989496" duration="211000" />
-      <workItem from="1499061453115" duration="257000" />
+      <workItem from="1499061453115" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="添加心">
       <created>1474183730406</created>
@@ -350,7 +347,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8082000" />
+    <option name="totallyTimeSpent" value="8149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="132" y="44" width="1092" height="733" extended-state="0" />
