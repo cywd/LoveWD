@@ -7,6 +7,7 @@
 <meta name="keywords" content="Wed Day Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
 <script type="applijewelleryion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- Custom Theme files -->
 <link href="css/style.css" rel='stylesheet' type='text/css' />	
@@ -93,9 +94,49 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					              </div>
 								</form>
 							</div>
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1578265.0941403757!2d-98.9828708842255!3d39.41170802696131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited+States!5e0!3m2!1sen!2sin!4v1407515822047"> </iframe>
- 						</div>	
- 					</div>	
+						<div style="width:697px;height:550px;border:#ccc solid 1px;" id="dituContent"></div>
+						<script type="text/javascript">
+							//创建和初始化地图函数：
+							function initMap(){
+								createMap();//创建地图
+								setMapEvent();//设置地图事件
+								addMapControl();//向地图添加控件
+							}
+
+							//创建地图函数：
+							function createMap(){
+								var map = new BMap.Map("dituContent");//在百度地图容器中创建一个地图
+								var point = new BMap.Point(116.406209,39.913459);//定义一个中心点坐标
+								map.centerAndZoom(point,17);//设定地图的中心点和坐标并将地图显示在地图容器中
+								window.map = map;//将map变量存储在全局
+							}
+
+							//地图事件设置函数：
+							function setMapEvent(){
+								map.enableDragging();//启用地图拖拽事件，默认启用(可不写)
+								map.enableScrollWheelZoom();//启用地图滚轮放大缩小
+								map.enableDoubleClickZoom();//启用鼠标双击放大，默认启用(可不写)
+								map.enableKeyboard();//启用键盘上下左右键移动地图
+							}
+
+							//地图控件添加函数：
+							function addMapControl(){
+								//向地图中添加缩放控件
+								var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+								map.addControl(ctrl_nav);
+								//向地图中添加缩略图控件
+								var ctrl_ove = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:1});
+								map.addControl(ctrl_ove);
+								//向地图中添加比例尺控件
+								var ctrl_sca = new BMap.ScaleControl({anchor:BMAP_ANCHOR_BOTTOM_LEFT});
+								map.addControl(ctrl_sca);
+							}
+
+
+							initMap();//创建和初始化地图
+						</script>
+					    </div>
+ 					</div>
 <!--/bottom-section-->
 	<div class="bottom-section">
 		<div class="container">
@@ -106,7 +147,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="footer">
 		  <div class="container">
 			 <div class="copy">
-		              <p>Copyright &copy; 2015.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+                 <p>Copyright &copy; 2016 我们的网站</p>
 		      </div>
 			<div class="clearfix"></div>
 		 </div>
