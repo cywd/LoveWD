@@ -4,14 +4,25 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
-/*@font-face {*/
-    /*!* font-properties *!*/
-    /*font-family: Filxgirl;*/
-    /*src:url('../Filxgirl.TTF')*/
-/*}*/
+@font-face {
+    /* font-properties */
+    font-family: Filxgirl;
+    src:url('../Filxgirl.TTF')
+}
+@font-face {
+    /* font-properties */
+    font-family: JHC;
+    src:url('../jhc.ttf')
+}
+@font-face {
+    /* font-properties */
+    font-family: zlyy;
+    src:url('../zlyy.otf')
+    /*src:url('../jhc.ttf')*/
+}
 html, body{
-    font-family: 'Lora', serif;
-    /*font-family: Filxgirl;*/
+    /*font-family: 'Lora', serif;*/
+    font-family: zlyy;
 	font-size: 100%;
 	background: #FFf;
 }
@@ -53,7 +64,8 @@ label{
  font-size:2.5em;
  padding: 0.5em 0.3em 0 0.5em;
  font-weight:600;
- font-family: 'Lora', serif;
+ /*font-family: 'Lora', serif;*/
+    font-family: zlyy;
  }
 .logo  a h1:hover{
  color:#fff;	
@@ -61,7 +73,8 @@ label{
 }
 .logo  a h1 span{
  color:#00b198;
- font-family: 'Niconne', cursive;
+ /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
  font-weight:400;
 }
 /*-- header --*/
@@ -470,11 +483,13 @@ a.sign {
   font-size:5em;
   font-weight:400;
   z-index: 999;
-  font-family: 'Lora', serif;
+  /*font-family: 'Lora', serif;*/
+    font-family: zlyy;
 }
 .banner-info h3 lable{
-  font-family: 'Niconne', cursive;
-  color:#00B198;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
+    color:#00B198;
 }
 .banner-info p{
   color: #fff;
@@ -491,7 +506,8 @@ a.sign {
   
 }
 .welcome-section h2{
- font-family: 'Niconne', cursive;
+ /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color:#00B198;
   font-size:4em;
   font-weight:400;
@@ -676,7 +692,8 @@ a.sign {
   color: #fff;
   margin: 15% auto;
   text-align: center;
-  font-family: 'Niconne', cursive;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
 }
 /*---story-grids--*/
 .story-section {
@@ -684,7 +701,8 @@ a.sign {
   background-color: #eee;
 }
 .story-section h3 {
-  font-family: 'Niconne', cursive;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color: #00B198;
   font-size: 4em;
   font-weight: 400;
@@ -723,7 +741,8 @@ a.sign {
   margin-top: 2em;
 }
 .event-section h3{
- font-family: 'Niconne', cursive;
+ /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color: #00B198;
   font-size: 4em;
   font-weight: 400;
@@ -793,7 +812,8 @@ margin-right:0%;
   text-align: center;
 }
 .about-section  h3{
-  font-family: 'Niconne', cursive;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color: #00B198;
   font-size: 4em;
   font-weight: 400;
@@ -814,7 +834,8 @@ margin-right:0%;
   padding: 0 2px;
 }
 .people-grides  h3 {
-  font-family: 'Niconne', cursive;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color: #00B198;
   font-size: 4em;
   font-weight: 400;
@@ -860,7 +881,8 @@ text-align:left;
    padding:4em 0;
 }
 h3.type  {
-  font-family: 'Niconne', cursive;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color: #00B198;
   font-size: 4em;
   font-weight: 400;
@@ -1007,7 +1029,8 @@ h3.bars {
   margin-top: 2em;
 }
 .moments h3{
-  font-family: 'Niconne', cursive;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color: #00B198;
   font-size: 4em;
   font-weight: 400;
@@ -1029,7 +1052,8 @@ h3.bars {
   padding: 4em 0;
 }
 .signup-section h3{
-  font-family: 'Niconne', cursive;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color: #00B198;
   font-size: 4em;
   font-weight: 400;
@@ -1387,7 +1411,8 @@ a.forgot {
  padding:4em 0;
 }
 .contact h3 {
-  font-family: 'Niconne', cursive;
+  /*font-family: 'Niconne', cursive;*/
+    font-family: zlyy;
   color: #00B198;
   font-size: 4em;
   font-weight: 400;
